@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 45px;
+}
+body{
+    background-color:rgb(236, 202, 159);
+}
+.top a {
+    padding: 10px;
+    margin: 50px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+} 
+
+.header{
+    display: flex;
+}
+.header p{
+    background-color: rgb(165, 41, 41);
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+    margin: 20px;
+    border: 7px solid #ffffff;
+    text-align: center;
+    color: #ffffff;
+}
+.boxtwo p {
+    background-color: rgb(165, 109, 41);
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+    margin: 20px;
+    border: 7px solid #ffffff;
+    text-align: center;
+    color: #ffffff;
+}
+.boxthree p{
+    background-color: rgb(41, 165, 119);
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+    margin: 20px;
+    border: 7px solid #ffffff;
+    text-align: center;
+    color: #ffffff;
+}
+
+.box img{
+    border:9px solid #59add1;
+    top: 60px;
+    right: 10px;
+    width: 440px;
+    height: 200px;
+    margin: 70px;
+}
+
+.box h3{
+    color: #ffffff;
+    background-color: #59add1;
+    width: 400px;
+    height: 60px;
+}
+.sample{
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px solid black;
+    width: 900px;
+    height: 700px;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+}
+.bin{
+    border: 10px solid black;
+    width: 240px;
+    height: 380px;
+    padding: 10px;
+    margin: 10px;
+}
+
+ .narber{
+    border: 10px solid black;
+    width: 240px;
+    height: 380px;
+    padding: 10px;
+    margin: 10px;
+}
+.click{
+    border: 10px solid black;
+    width: 240px;
+    height: 380px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.sample .team {
+    border: 10px solid black;
+    width: 880px;
+    height: 190px;
+    padding: 10px;
+    margin: 10px;
+}
+.sample .team a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
